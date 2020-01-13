@@ -1083,7 +1083,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: #007bff;
   text-decoration: none;
 }
 a:hover,
@@ -7964,9 +7964,6 @@ a .icon-flip-vertical:before {
 }
 body {
   background-color: #000000;
-}
-.container-fluid {
-  max-width: 1280px;
 }
 .row {
   -webkit-box-sizing: border-box;
