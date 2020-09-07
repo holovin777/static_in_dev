@@ -8752,7 +8752,7 @@ img.slide {
 }
 .content-wrapper {
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 600px;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
